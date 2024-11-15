@@ -1,0 +1,40 @@
+.roles {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 50px;
+
+
+
+}
+
+.add-new {
+    height: 100%;
+    border: 2px solid rgba(95, 95, 178, 0.141);
+    border-radius: 10px;
+    width: 35%;
+    padding: 50px;
+}
+
+.heading {
+    text-align: center;
+
+}
+
+.add-button {
+    width: 180px;
+    height: 38px;
+    margin: 50px 100px;
+
+}
+
+.rolestable {
+    width: 750px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.table-head {
+    width: 100px;
+    padding: 300px;
+}

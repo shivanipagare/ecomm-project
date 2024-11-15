@@ -1,0 +1,15 @@
+.env
+ node_modules
+/node_modules
+ node_modules/
+adminbackend\yashcartbackend\node_modules"
+ecommerce\node_modules"
+
+# Environment files
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+*.log

@@ -1,0 +1,11 @@
+.table-data{
+
+margin: 20px 150px;
+}
+.form-data{
+    width:80%;
+    margin:20px 100px;
+    border: 2px solid rgba(95, 95, 178, 0.141);
+    border-radius: 20px;
+    padding: 40px;
+}
